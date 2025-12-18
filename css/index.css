@@ -84,6 +84,11 @@ main{
     text-align: center;
 }
 
+.box h2{
+    font-weight: 200;
+    text-transform: uppercase;
+}
+
 #recent{
     display: flex;
 }
@@ -193,6 +198,7 @@ main{
         text-size-adjust: 500%;
     }
 }
+
 
 
 
