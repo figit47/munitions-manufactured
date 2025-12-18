@@ -16,7 +16,7 @@ h3{
 }
 
 body{
-    background-image: url('/companyHomepage/resources/background-texture.jpg');
+    background-image: url('/resources/background-texture.jpg');
 }
 
 /*Header Bar*/
@@ -155,4 +155,5 @@ main{
     header h1{
         font-size: 3rem;
     }
+
 }
