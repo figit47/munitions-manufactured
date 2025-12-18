@@ -16,7 +16,7 @@ h3{
 }
 
 body{
-    background-image: url('munitions-manufactured/resources/background-texture.jpg');
+    background-image: url('./resources/background-texture.jpg');
 }
 
 /*Header Bar*/
@@ -149,7 +149,7 @@ main{
 
 @media only screen and (max-width: 430px){
     .logo{
-        display: none;
+        display: none !important;
     }
     
     header h1{
@@ -157,5 +157,6 @@ main{
     }
 
 }
+
 
 
