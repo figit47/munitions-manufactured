@@ -85,7 +85,7 @@ main{
 }
 
 .box h1, .box h2{
-    font-weight: 200;
+    font-weight: 300;
     
 }
 
@@ -203,6 +203,7 @@ main{
         text-size-adjust: 500%;
     }
 }
+
 
 
 
