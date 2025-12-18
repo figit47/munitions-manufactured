@@ -84,9 +84,14 @@ main{
     text-align: center;
 }
 
-.box h2{
+.box h1, .box h2{
     font-weight: 200;
+    
+}
+
+.box h1{
     text-transform: uppercase;
+    
 }
 
 #recent{
@@ -198,6 +203,7 @@ main{
         text-size-adjust: 500%;
     }
 }
+
 
 
 
